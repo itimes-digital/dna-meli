@@ -1,2 +1,2 @@
 # dna-meli
-Um projeto do Cesar de Planeta dos Macacos para classificar DNAs humanos e símios
+Um projeto do Cesar do filme Planeta dos Macacos para classificar DNAs humanos e de símios
