@@ -1,5 +1,5 @@
 # dna-meli
-Um projeto do Cesar do filme Planeta dos Macacos para classificar DNAs humanos e de símios.
+Um projeto do Cesar do filme Planeta dos Macacos para classificar DNAs humanos e de símios [ABSTRAÇÃO]. 
 
 URL da aplicação para acessar os serviços via SWAGGER: 
 - http://ec2-3-82-5-211.compute-1.amazonaws.com/swagger-ui.html
