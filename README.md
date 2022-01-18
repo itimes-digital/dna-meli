@@ -43,4 +43,4 @@ MÉTODO PUT
 
 MÉTODO GET
 - Busca uma lista de DNAs por paginação
-- curl -X GET "http://ec2-3-82-5-211.compute-1.amazonaws.com/v1?page=0&size=10" -H "accept: */*"
+- curl -X GET "http://ec2-3-82-5-211.compute-1.amazonaws.com/v1?page=0&size=10" -H "accept: */*" .
