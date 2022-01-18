@@ -1,6 +1,10 @@
 # dna-meli
 Um projeto do Cesar do filme Planeta dos Macacos para classificar DNAs humanos e de símios [ABSTRAÇÃO]. 
 
+[IMPORTANTE]: Pode ser que o SWAGGER não abra no Chrome, por algum motivo, não renderiza... (Nos meus 2 computadores não está rolando...rs)
+
+Já no MS Edge, funfa legal!
+
 URL da aplicação para acessar os serviços via SWAGGER: 
 - http://ec2-3-82-5-211.compute-1.amazonaws.com/swagger-ui.html
 
